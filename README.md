@@ -1,5 +1,5 @@
-# Chrome extension - Add an additional search button
-Add an additional search button on Google search page using a chrome extension 
+# Chrome extension - Sample code to add an additional search button
+This chrome extension is the bare minimum that you need to inject custom javascript and CSS file in a webpage. This code will add an additional search button on Google search page. 
 
 # How to add extension
 To add the extension on your local machine chrome browser - watch the following video.
