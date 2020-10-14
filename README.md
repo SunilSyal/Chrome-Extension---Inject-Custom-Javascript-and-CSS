@@ -1,4 +1,4 @@
-# Chrome-Extension---Additional-Search-Button
+# Chrome extension - Add an additional search button
 Add an additional search button on Google search page using a chrome extension 
 
 # How to add extension
